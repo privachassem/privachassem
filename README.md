@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://scholar.google.com/citations?user=nS6MjHkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://orcid.org/0009-0007-6550-5885"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="https://www.linkedin.com/in/priva-chassem-kamdem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/priva-chassem-kamdem-b7a0981a2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:priva.chassem@univ-dschang.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -33,12 +33,12 @@ I've collaborated with the **US Army Research Laboratory (DEVCOM ARL)**, the **U
 
 | Year | Work | Venue |
 |------|------|-------|
-| 2025 | Multi-Domain Deception for Enhanced Security in Automotive Networks | *Computers & Security* (Elsevier) |
-| 2025 | Multi-Objective Game Against DRDoS Attacks in SDN | *Array* (Elsevier) |
-| 2024 | Two-Layer Deception Model Based on Signaling Games Against Cyber Attacks on CPS | *IEEE Access* |
-| 2024 | Bayesian Game for Cyber Deception Against Remote Attack on Automotive Systems | *IEEE ICNC* |
-| 2024 | Effects of Flatness Parameter on Memristor-Like Activation Function in DL | *SN Computer Science* |
-| 2026 | HySyllNet: Hybrid Syllabic Neural Network | *Multimedia Tools and Applications* (Springer) |
+| 2025 | [Multi-Domain Deception for Enhanced Security in Automotive Networks](https://www.sciencedirect.com/science/article/abs/pii/S0167404825002895) | *Computers & Security* (Elsevier) |
+| 2025 | [Multi-Objective Game Against DRDoS Attacks in SDN](https://www.sciencedirect.com/science/article/pii/S2590005625000372) | *Array* (Elsevier) |
+| 2024 | [Two-Layer Deception Model Based on Signaling Games Against Cyber Attacks on CPS](https://ieeexplore.ieee.org/document/10714327) | *IEEE Access* |
+| 2024 | [Bayesian Game for Cyber Deception Against Remote Attack on Automotive Systems](https://ieeexplore.ieee.org/document/10556376) | *IEEE ICNC* |
+| 2024 | [Effects of Flatness Parameter on Memristor-Like Activation Function in DL](https://link.springer.com/article/10.1007/s42979-024-03507-8) | *SN Computer Science* |
+| 2026 | [HySyllNet: Hybrid Syllabic Neural Network](https://doi.org/10.1007/s11042-026-21661-4) | *Multimedia Tools and Applications* (Springer) |
 
 📖 Full and up-to-date list on [Google Scholar](https://scholar.google.com/citations?user=nS6MjHkAAAAJ&hl=en) and [ORCID](https://orcid.org/0009-0007-6550-5885).
 
@@ -56,11 +56,8 @@ I've collaborated with the **US Army Research Laboratory (DEVCOM ARL)**, the **U
 
 ---
 
-### 📊 GitHub stats
+### 🔭 Currently
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=privachassem&show_icons=true&theme=default" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=privachassem&layout=compact&theme=default" alt="Top languages" height="160">
-</p>
+Finalizing my PhD on **game-theoretic, multi-layered cyber-deception for connected vehicles**, and open to **postdoc / research collaborations** in game theory, CPS & automotive security, and cyber deception.
 
 <p align="center"><i>Let's connect — I'm always glad to exchange ideas on game theory, CPS/automotive security, and cyber deception.</i></p>
