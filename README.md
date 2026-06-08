@@ -39,6 +39,7 @@ I've collaborated with the **US Army Research Laboratory (DEVCOM ARL)**, the **U
 | 2024 | [Bayesian Game for Cyber Deception Against Remote Attack on Automotive Systems](https://ieeexplore.ieee.org/document/10556376) | *IEEE ICNC* |
 | 2024 | [Effects of Flatness Parameter on Memristor-Like Activation Function in DL](https://link.springer.com/article/10.1007/s42979-024-03507-8) | *SN Computer Science* |
 | 2026 | [HySyllNet: Hybrid Syllabic Neural Network](https://doi.org/10.1007/s11042-026-21661-4) | *Multimedia Tools and Applications* (Springer) |
+| 2020 | [An Efficient DCT-SVD Steganographic Approach Applied to JPEG Images](https://eudl.eu/doi/10.4108/eai.28-9-2020.166365) | *EAI Endorsed Transactions* |
 
 📖 Full and up-to-date list on [Google Scholar](https://scholar.google.com/citations?user=nS6MjHkAAAAJ&hl=en) and [ORCID](https://orcid.org/0009-0007-6550-5885).
 
@@ -48,6 +49,7 @@ I've collaborated with the **US Army Research Laboratory (DEVCOM ARL)**, the **U
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![OMNeT++](https://img.shields.io/badge/OMNeT%2B%2B-1F6F78?style=flat)
 ![Game Theory](https://img.shields.io/badge/Game%20Theory-2C3E50?style=flat)
 ![Cyber Deception](https://img.shields.io/badge/Cyber%20Deception-8E44AD?style=flat)
 ![CPS Security](https://img.shields.io/badge/CPS%20Security-16A085?style=flat)
